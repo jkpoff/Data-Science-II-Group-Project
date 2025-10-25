@@ -1,6 +1,6 @@
 Authors:\
-Jonathan Poffenberger
-Talha Mohammed
+Jonathan Poffenberger\
+Talha Mohammed\
 Muhammad Talha Abdullah 
 
 Dataset Description:
